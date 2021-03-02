@@ -1,0 +1,24 @@
+{
+  "name": "keyextractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "atob": "^2.1.2",
+    "esprima": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "pkcs7": "^1.0.4",
+    "puppeteer": "5.3.1",
+    "puppeteer-extra": "3.1.9",
+    "puppeteer-extra-plugin-stealth": "2.6.2"
+  },
+  "devDependencies": {
+    "request": "^2.88.2"
+  }
+}
